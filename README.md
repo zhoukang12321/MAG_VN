@@ -1,5 +1,5 @@
-# MGL for VN
-Multimodal Graph Learning and Action Boost Memory for Visual Navigation
+# MAG for VN
+Learning Multimodal Adaptive Graph for Visual Navigation
 
 DETR pretrained file can be found in https://github.com/sx-zhang/HOZ.git
 
@@ -14,7 +14,7 @@ We public some codes in this branch and when the paper are accepted, we will rel
 
 
 # Setup
-Clone the repository with git clone https://github.com/zhoukang12321/MGL_VN_2024.git && cd MGL_VN_2024.
+Clone the repository with git clone https://github.com/zhoukang12321/MAG_VN_2024.git && cd MGL_VN_2024.
 
 Install the necessary packages. If you are using pip then simply run pip install -r requirements.txt.
 
